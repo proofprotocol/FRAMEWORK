@@ -2,14 +2,14 @@
 
 **Issuer:** Craig Ellrod, Founder & CEO, Nebulonium, Inc. (d/b/a HACKERverse)  
 **Date:** 2026-07-10  
-**License:** Creative Commons Attribution 4.0 International (CC BY 4.0) — Irrevocable  
-**Status:** Foundational Framework — v1.0  
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0) - Irrevocable  
+**Status:** Foundational Framework - v1.0  
 
 ---
 
 ## Thesis
 
-Human civilization runs on claims. Claims made by institutions, systems, machines, and individuals about their own performance, safety, compliance, and integrity. The dominant mechanism for validating those claims is **self-attestation**: the claimant declares it to be true, and downstream parties accept it — often because no alternative exists.
+Human civilization runs on claims. Claims made by institutions, systems, machines, and individuals about their own performance, safety, compliance, and integrity. The dominant mechanism for validating those claims is **self-attestation**: the claimant declares it to be true, and downstream parties accept it - often because no alternative exists.
 
 Self-attestation is not a trust mechanism. It is an absence of one.
 
@@ -87,11 +87,11 @@ A public, append-only ledger of Proof Records, indexed by PCID. The ProofRegiste
 
 ### 9. The Five-Tier Corroboration Model
 Every Proof Record passes through five corroboration states before sealing:
-- **Activated** — execution parameters committed
-- **Committed** — pre-execution anchor established
-- **Witnessed** — execution observed by independent party
-- **Analyzed** — outcomes evaluated against defined criteria
-- **Sealed** — final hash computed, blockchain anchor written
+- **Activated** - execution parameters committed
+- **Committed** - pre-execution anchor established
+- **Witnessed** - execution observed by independent party
+- **Analyzed** - outcomes evaluated against defined criteria
+- **Sealed** - final hash computed, blockchain anchor written
 
 A claim is only valid against a Sealed proof record.
 
@@ -195,31 +195,31 @@ Gartner's Adversarial Exposure Validation (AEV) category, published March 2026, 
 ## Standards Roadmap
 
 ### Issued
-- DKP-SPEC-001 v1.1 — Core Protocol (CC BY 4.0, irrevocable)
-- PROOFSTAMP-STANDARD-001 v1.0 — Certification Mark Standard
+- DKP-SPEC-001 v1.1 - Core Protocol (CC BY 4.0, irrevocable)
+- PROOFSTAMP-STANDARD-001 v1.0 - Certification Mark Standard
 
 ### In Development
-- DKP-SPEC-001 v1.2 — Core Protocol update (CC BY-ND 4.0)
-- DKP-SPEC-002 — ProofRecord Format
-- DKP-SPEC-003 — Blockchain Anchoring
-- DKP-SPEC-004 — Extension Framework (domain-specific proof profiles)
-- DKP-SPEC-005 — Interoperability and Cross-Platform Verification
+- DKP-SPEC-001 v1.2 - Core Protocol update (CC BY-ND 4.0)
+- DKP-SPEC-002 - ProofRecord Format
+- DKP-SPEC-003 - Blockchain Anchoring
+- DKP-SPEC-004 - Extension Framework (domain-specific proof profiles)
+- DKP-SPEC-005 - Interoperability and Cross-Platform Verification
 
 ### Planned
-- PE-SPEC-001 — Proof Economy™ Universal Architecture (this document, formalized)
-- PE-SPEC-002 — Domain Extension: Financial Risk and Audit
-- PE-SPEC-003 — Domain Extension: AI Safety and Alignment
-- PE-SPEC-004 — Domain Extension: Software Supply Chain
-- PE-SPEC-005 — Domain Extension: Regulatory Compliance Submissions
-- PE-SPEC-006 — Domain Extension: Clinical Research Integrity
-- PE-SPEC-007 — Domain Extension: ESG and Sustainability Claims
-- PE-SPEC-008 — Proof Economy™ Insurance Underwriting Methodology
-- PE-SPEC-009 — Multi-Vendor Proof Comparison Framework
-- PE-SPEC-010 — Regulatory Submission Proof Package Format
-- PE-SPEC-011 — AI Behavior Index Construction from Proof Records
-- PESA-GOV-001 — PESA Founding Charter and Governance Rules
-- PESA-GOV-002 — Test Lab Accreditation Standard
-- PESA-GOV-003 — ProofStamp™ Certification Program Rules
+- PE-SPEC-001 - Proof Economy™ Universal Architecture (this document, formalized)
+- PE-SPEC-002 - Domain Extension: Financial Risk and Audit
+- PE-SPEC-003 - Domain Extension: AI Safety and Alignment
+- PE-SPEC-004 - Domain Extension: Software Supply Chain
+- PE-SPEC-005 - Domain Extension: Regulatory Compliance Submissions
+- PE-SPEC-006 - Domain Extension: Clinical Research Integrity
+- PE-SPEC-007 - Domain Extension: ESG and Sustainability Claims
+- PE-SPEC-008 - Proof Economy™ Insurance Underwriting Methodology
+- PE-SPEC-009 - Multi-Vendor Proof Comparison Framework
+- PE-SPEC-010 - Regulatory Submission Proof Package Format
+- PE-SPEC-011 - AI Behavior Index Construction from Proof Records
+- PESA-GOV-001 - PESA Founding Charter and Governance Rules
+- PESA-GOV-002 - Test Lab Accreditation Standard
+- PESA-GOV-003 - ProofStamp™ Certification Program Rules
 
 ---
 
@@ -229,7 +229,7 @@ Self-attestation is the single largest source of unpriced risk in the global eco
 
 That infrastructure exists now.
 
-The Proof Economy™ is not a product category. It is the next layer of trust infrastructure for human civilization — built on cryptographic proof, governed by practitioners, and open by design.
+The Proof Economy™ is not a product category. It is the next layer of trust infrastructure for human civilization - built on cryptographic proof, governed by practitioners, and open by design.
 
 ---
 
