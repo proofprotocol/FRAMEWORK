@@ -306,4 +306,4 @@ No external party contributed to, reviewed, or approved this framework prior to 
 
 ---
 
-*This document is published under CC BY 4.0 (Irrevocable). Attribution: Craig Ellrod / Nebulonium, Inc. / HACKERverse. All concepts, frameworks, architectural patterns, and governance principles herein are prior art as of the date of publication.*
+*This document is published under CC BY 4.0 (Irrevocable). Attribution: Craig Ellrod / Nebulonium, Inc.. All concepts, frameworks, architectural patterns, and governance principles herein are prior art as of the date of publication.*
