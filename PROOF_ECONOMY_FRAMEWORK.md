@@ -1,4 +1,4 @@
-# The Proof Economy: A Universal Framework for Machine-Verifiable Truth
+# The Proof Economy™: A Universal Framework for Machine-Verifiable Truth
 
 **Issuer:** Craig Ellrod, Founder & CEO, Nebulonium, Inc. (d/b/a HACKERverse)  
 **Date:** 2026-07-10  
@@ -13,7 +13,7 @@ Human civilization runs on claims. Claims made by institutions, systems, machine
 
 Self-attestation is not a trust mechanism. It is an absence of one.
 
-The Proof Economy is the infrastructure, standards, and governance framework for replacing self-attestation with **machine-verifiable proof** across every domain where claims drive decisions.
+The Proof Economy™ is the infrastructure, standards, and governance framework for replacing self-attestation with **machine-verifiable proof** across every domain where claims drive decisions.
 
 This is not a narrow technical proposal. It is a fundamental shift in how trust is manufactured, transferred, and priced in the global economy.
 
@@ -45,7 +45,7 @@ The cost is not merely financial. Self-attestation in high-stakes domains kills 
 
 ## The Solution: Proof-First Infrastructure
 
-The Proof Economy replaces the claim-then-verify model with a **proof-first model**:
+The Proof Economy™ replaces the claim-then-verify model with a **proof-first model**:
 
 > No claim is valid without a corresponding machine-verifiable proof artifact, generated before the claim is made, anchored to an independent time source, and verifiable by any party without access to the claimant's infrastructure.
 
@@ -59,7 +59,7 @@ Proof is **continuous, machine-generated, cryptographically anchored, and indepe
 
 ## Core Architecture (Domain-Agnostic)
 
-The following architectural components apply across every domain where the Proof Economy operates:
+The following architectural components apply across every domain where the Proof Economy™ operates:
 
 ### 1. The Atomic Execution Unit (AEU)
 The minimum observable unit of behavior for proof purposes. In cybersecurity: a single TTP execution. In finance: a single transaction or position. In clinical research: a single data observation. In AI safety: a single model decision. The AEU is the irreducible atom of the proof record.
@@ -82,8 +82,8 @@ The Proof Record is anchored to a public blockchain using an OP_RETURN or equiva
 ### 7. The Proof Chain ID (PCID)
 A globally unique identifier for each Proof Record, embedded in the blockchain anchor. The PCID is the universal reference for a claim.
 
-### 8. The ProofRegister
-A public, append-only ledger of Proof Records, indexed by PCID. The ProofRegister is the authoritative source of proof artifacts across all domains.
+### 8. The ProofRegister™
+A public, append-only ledger of Proof Records, indexed by PCID. The ProofRegister™ is the authoritative source of proof artifacts across all domains.
 
 ### 9. The Five-Tier Corroboration Model
 Every Proof Record passes through five corroboration states before sealing:
@@ -102,21 +102,21 @@ Any party holding a PCID and access to a public blockchain node can verify the e
 
 ## Domain Applications
 
-The following domains are identified as immediate or near-term application areas for Proof Economy infrastructure. This list is not exhaustive. Any domain where claims drive high-stakes decisions is a Proof Economy domain.
+The following domains are identified as immediate or near-term application areas for Proof Economy™ infrastructure. This list is not exhaustive. Any domain where claims drive high-stakes decisions is a Proof Economy™ domain.
 
 ### Tier 1: Active Development (Reference Implementation)
 **Agentic AI Security Evaluation**  
-Reference implementation under DKP Protocol (DKP-SPEC-001 through DKP-SPEC-005). ProofRegister live. Certified Run #001 complete (PR-2026-12672). ProofStamp certification mark active.
+Reference implementation under DKP Protocol (DKP-SPEC-001 through DKP-SPEC-005). ProofRegister™ live. Certified Run #001 complete (PR-2026-12672). ProofStamp™ certification mark active.
 
 ### Tier 2: Near-Term Expansion
 **AI Safety and Alignment**  
-Model behavior claims, safety benchmark results, alignment evaluation outcomes. Any claim made by an AI developer about model behavior is a self-attestation candidate for Proof Economy replacement.
+Model behavior claims, safety benchmark results, alignment evaluation outcomes. Any claim made by an AI developer about model behavior is a self-attestation candidate for Proof Economy™ replacement.
 
 **Software Supply Chain**  
 Build provenance, dependency integrity, SBOM accuracy, vulnerability disclosure claims. Every SBOM is currently a self-attestation document.
 
 **Financial Risk and Audit**  
-Position reporting, risk exposure claims, liquidity assertions, model validation. The audit function is structurally self-attestation-adjacent; Proof Economy infrastructure produces a parallel, independent evidence stream.
+Position reporting, risk exposure claims, liquidity assertions, model validation. The audit function is structurally self-attestation-adjacent; Proof Economy™ infrastructure produces a parallel, independent evidence stream.
 
 **Regulatory Compliance (Cross-Sector)**  
 Any compliance claim submitted to a regulatory body. FDA submissions, SEC filings, FedRAMP assessments, SOC 2 reports, ISO certifications. All are self-attestation artifacts today.
@@ -139,7 +139,7 @@ Risk assessment inputs, loss prevention claims, security posture representations
 
 ---
 
-## What the Proof Economy Is Not
+## What the Proof Economy™ Is Not
 
 **It is not auditing.** Auditing is periodic, retrospective, and dependent on claimant cooperation. Proof is continuous, prospective, and independent.
 
@@ -147,21 +147,21 @@ Risk assessment inputs, loss prevention claims, security posture representations
 
 **It is not attestation.** Attestation is a declaration. Proof is evidence. The distinction is not semantic. It is the difference between a witness statement and a fingerprint.
 
-**It is not blockchain for its own sake.** Blockchain is used exclusively for its property of immutable public anchoring. The Proof Economy would use any mechanism that provides equivalent permanence and independence. Blockchain is currently the most practical implementation.
+**It is not blockchain for its own sake.** Blockchain is used exclusively for its property of immutable public anchoring. The Proof Economy™ would use any mechanism that provides equivalent permanence and independence. Blockchain is currently the most practical implementation.
 
-**It is not a vendor product.** The Proof Economy is infrastructure. Like TCP/IP or public key infrastructure, it is a standard that any compliant implementation can participate in. No single vendor owns it.
+**It is not a vendor product.** The Proof Economy™ is infrastructure. Like TCP/IP or public key infrastructure, it is a standard that any compliant implementation can participate in. No single vendor owns it.
 
-**It is not regulation and it is not an attempt to set regulatory bodies in motion for or against the Proof Economy.** The Proof Economy is a market infrastructure layer. Regulatory adoption, if it occurs, is a downstream outcome driven by the market - not an objective of this framework or its governance body. This publication makes no claim on the regulatory process and seeks no regulatory mandate.
+**It is not regulation and it is not an attempt to set regulatory bodies in motion for or against the Proof Economy™.** The Proof Economy™ is a market infrastructure layer. Regulatory adoption, if it occurs, is a downstream outcome driven by the market - not an objective of this framework or its governance body. This publication makes no claim on the regulatory process and seeks no regulatory mandate.
 
 ---
 
 ## Governance Principles
 
-The Proof Economy requires governance that cannot be captured by the parties whose self-attestation it replaces. The following principles are irrevocably established:
+The Proof Economy™ requires governance that cannot be captured by the parties whose self-attestation it replaces. The following principles are irrevocably established:
 
 1. **Practitioners and buyers govern.** The parties who rely on proof artifacts hold the top seats. The parties whose claims are being proven do not govern the standards that govern them.
 
-2. **No self-attestation in the standards process.** Conformance to Proof Economy standards is demonstrated through proof, not declaration.
+2. **No self-attestation in the standards process.** Conformance to Proof Economy™ standards is demonstrated through proof, not declaration.
 
 3. **Open specification, earned certification.** The standards are open. The certification is not automatic. Anyone can implement. Not everyone passes.
 
@@ -175,20 +175,20 @@ The Proof Economy requires governance that cannot be captured by the parties who
 
 ## Prior Art and Origination
 
-The Proof Economy as a named category was coined by Craig Ellrod in May 2025. The following foundational concepts were publicly disclosed prior to any competing framework:
+The Proof Economy™ as a named category was coined by Craig Ellrod in May 2025. The following foundational concepts were publicly disclosed prior to any competing framework:
 
-- Proof Economy as a market category (May 2025)
-- Continuous Adversarial Evaluation / CAE (May 2025)
+- Proof Economy™ as a market category (May 2025)
+- Continuous Adversarial Evaluation™ / CAE (May 2025)
 - DKP Protocol v1.0 architecture including AEU, VPE, VPS, five-tier corroboration model, NIST Beacon pre-execution commitment (2025–2026)
-- ProofRegister as a public proof ledger (2025–2026)
+- ProofRegister™ as a public proof ledger (2025–2026)
 - Proof-first conformance as a standards principle (2025–2026)
-- ProofStamp as a proof-gated certification mark (2026)
+- ProofStamp™ as a proof-gated certification mark (2026)
 - PESA governance model including vendor recusal principle (2026)
 - Self-attestation insufficiency doctrine in conformance standards (2026)
 
 All of the above are irrevocably published under CC BY 4.0.
 
-Gartner's Adversarial Exposure Validation (AEV) category, published March 2026, postdates the Proof Economy coinage by approximately ten months.
+Gartner's Adversarial Exposure Validation (AEV) category, published March 2026, postdates the Proof Economy™ coinage by approximately ten months.
 
 ---
 
@@ -206,20 +206,20 @@ Gartner's Adversarial Exposure Validation (AEV) category, published March 2026, 
 - DKP-SPEC-005 — Interoperability and Cross-Platform Verification
 
 ### Planned
-- PE-SPEC-001 — Proof Economy Universal Architecture (this document, formalized)
+- PE-SPEC-001 — Proof Economy™ Universal Architecture (this document, formalized)
 - PE-SPEC-002 — Domain Extension: Financial Risk and Audit
 - PE-SPEC-003 — Domain Extension: AI Safety and Alignment
 - PE-SPEC-004 — Domain Extension: Software Supply Chain
 - PE-SPEC-005 — Domain Extension: Regulatory Compliance Submissions
 - PE-SPEC-006 — Domain Extension: Clinical Research Integrity
 - PE-SPEC-007 — Domain Extension: ESG and Sustainability Claims
-- PE-SPEC-008 — Proof Economy Insurance Underwriting Methodology
+- PE-SPEC-008 — Proof Economy™ Insurance Underwriting Methodology
 - PE-SPEC-009 — Multi-Vendor Proof Comparison Framework
 - PE-SPEC-010 — Regulatory Submission Proof Package Format
 - PE-SPEC-011 — AI Behavior Index Construction from Proof Records
 - PESA-GOV-001 — PESA Founding Charter and Governance Rules
 - PESA-GOV-002 — Test Lab Accreditation Standard
-- PESA-GOV-003 — ProofStamp Certification Program Rules
+- PESA-GOV-003 — ProofStamp™ Certification Program Rules
 
 ---
 
@@ -229,7 +229,7 @@ Self-attestation is the single largest source of unpriced risk in the global eco
 
 That infrastructure exists now.
 
-The Proof Economy is not a product category. It is the next layer of trust infrastructure for human civilization — built on cryptographic proof, governed by practitioners, and open by design.
+The Proof Economy™ is not a product category. It is the next layer of trust infrastructure for human civilization — built on cryptographic proof, governed by practitioners, and open by design.
 
 ---
 
