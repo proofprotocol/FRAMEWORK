@@ -35,7 +35,7 @@ This framework is independently timestamped by two sources at the moment of comm
 
 - GitHub Release: see Releases - commit timestamp logged by GitHub at moment of push
 - NIST Randomness Beacon: pulse value embedded in PROOF_ECONOMY_FRAMEWORK.md - verify at beacon.nist.gov
-- Zenodo DOI: pending - permanent third-party archive
+- Zenodo DOI: 10.5281/zenodo.21379780, published 2026-07-15 - permanent third-party archive
 - ProofRegister™: cross-referenced as prior art anchor record
 
 ## Related
