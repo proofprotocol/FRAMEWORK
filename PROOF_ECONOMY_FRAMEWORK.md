@@ -159,7 +159,7 @@ Risk assessment inputs, loss prevention claims, security posture representations
 
 ## Governance Principles
 
-The Proof Economy™ requires governance that cannot be captured by the parties whose self-attestation it replaces. The following principles are irrevocably established:
+The Proof Economy™ requires governance that cannot be captured by the parties whose self-attestation it replaces. The following principles are irrevocably published under CC BY 4.0 as the governance model the Proof Economy™ Standards Alliance (PESA) will operate under. PESA is currently being established (targeting 501(c)(6) nonprofit status); until it is formally constituted, these principles bind Nebulonium, Inc.'s own conduct as founding sponsor and are the terms under which PESA's governance will be built.
 
 1. **Practitioners and buyers govern.** The parties who rely on proof artifacts hold the top seats. The parties whose claims are being proven do not govern the standards that govern them.
 
@@ -169,7 +169,7 @@ The Proof Economy™ requires governance that cannot be captured by the parties 
 
 4. **Right to implement is never restricted; right to fork the canonical text may be.** Every Proof Economy™ specification may be freely implemented, built upon as a product, and certified against, regardless of the license applied to the specification's own text. A canonical specification may carry No-Derivatives terms to preserve a single, unfragmented reference standard - the way a published protocol specification is copyrighted while remaining freely implementable. ND licensing on a canonical text is not market capture; using licensing to prevent independent implementation, or to require payment to implement, would be.
 
-5. **Vendor recusal.** Any governance participant who joins a vendor in a governed category recuses from or vacates their seat within 90 days.
+5. **Vendor recusal.** Once PESA is constituted, any governance participant who joins a vendor in a governed category will recuse from or vacate their seat within 90 days.
 
 6. **Prior art governs.** Where prior art exists under an irrevocable open license, no subsequent standard may claim exclusive rights over the underlying concepts, regardless of the license applied to the subsequent standard's expression.
 
@@ -229,7 +229,7 @@ Self-attestation is the single largest source of unpriced risk in the global eco
 
 That infrastructure exists now.
 
-The Proof Economy™ is not a product category. It is the next layer of trust infrastructure for human civilization - built on cryptographic proof, governed by practitioners, and open by design.
+The Proof Economy™ is not a product category. It is the next layer of trust infrastructure for human civilization - built on cryptographic proof, designed for practitioner governance, and open by design.
 
 ---
 
