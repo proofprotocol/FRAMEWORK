@@ -12,6 +12,11 @@ This repository contains the Proof Economy™ Universal Framework - the foundati
 
 The Proof Economy™ is not a cybersecurity standard. It is the next layer of trust infrastructure for human civilization - built on cryptographic proof, governed by practitioners, and open by design.
 
+## Cite as
+
+Ellrod, C. (2026). Proof Economy Universal Framework.
+Proof Economy Standards Alliance (PESA). https://doi.org/10.5281/zenodo.21379780
+
 ## Document
 
 [PROOF_ECONOMY_FRAMEWORK.md](./PROOF_ECONOMY_FRAMEWORK.md)
