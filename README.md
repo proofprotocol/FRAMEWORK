@@ -53,3 +53,8 @@ This framework is independently timestamped by two sources at the moment of comm
 ## License
 
 CC BY 4.0 - Irrevocable. Attribution to Craig Ellrod / Nebulonium, Inc. required.
+
+
+## Foundational Governance
+
+- [Proof Economy Code of Ethics](https://github.com/proofprotocol/CODE-OF-ETHICS) — Foundational ethical and institutional obligations for recognized Proof Economy participation.
