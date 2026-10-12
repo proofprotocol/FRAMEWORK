@@ -4,7 +4,7 @@
 
 **Issuer:** Craig Ellrod, Founder & CEO, Nebulonium, Inc. (d/b/a HACKERverse)
 **Date:** 2026-07-10
-**License:** Greater Good Commercial License 1.0 (GGL-C-1.0); text CC BY-ND 4.0 under Part S. See LICENSE.md.
+**License:** Greater Good Commercial License 1.0 (GGL-C-1.0); text CC BY 4.0 under Part S. See LICENSE.md.
 **Status:** Foundational Framework - v1.0
 
 ---
@@ -159,7 +159,7 @@ Risk assessment inputs, loss prevention claims, security posture representations
 
 ## Governance Principles
 
-The Proof Economy™ requires governance that cannot be captured by the parties whose self-attestation it replaces. The following principles are irrevocably Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+The Proof Economy™ requires governance that cannot be captured by the parties whose self-attestation it replaces. The following principles are irrevocably Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 1. **Practitioners and buyers govern.** The parties who rely on proof artifacts hold the top seats. The parties whose claims are being proven do not govern the standards that govern them.
 
@@ -188,7 +188,7 @@ The Proof Economy™ as a named category was coined by Craig Ellrod in May 2025.
 - PESA governance model including vendor recusal principle (2026)
 - Self-attestation insufficiency doctrine in conformance standards (2026)
 
-All of the above are irrevocably Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+All of the above are irrevocably Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Gartner's Adversarial Exposure Validation (AEV) category, published March 2026, postdates the Proof Economy™ coinage by approximately ten months.
 
@@ -197,7 +197,7 @@ Gartner's Adversarial Exposure Validation (AEV) category, published March 2026, 
 ## Standards Roadmap
 
 ### Issued
-- PP-SPEC-001 - Proof Protocol Specification (CC BY-ND 4.0, irrevocable)
+- PP-SPEC-001 - Proof Protocol Specification (CC BY 4.0, irrevocable)
 - PP-SPEC-002 through PP-SPEC-014 - Companion specifications covering proof validity, ProofBundle format, registry API, witness protocol, efficacy scoring, agent-to-agent proof, chain anchoring, certification criteria, legal attestation format, provenance, domain framework, and proof of performance / efficacy (CC BY 4.0)
 
 ### In Development (Draft)
@@ -277,4 +277,4 @@ No external party contributed to, reviewed, or approved this framework prior to 
 
 ---
 
-*This document is Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+*This document is Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
