@@ -4,7 +4,7 @@
 
 **Issuer:** Craig Ellrod, Founder & CEO, Nebulonium, Inc. (d/b/a HACKERverse)  
 **Date:** July 10, 2026  
-**License:** Creative Commons Attribution 4.0 International (CC BY 4.0) - Irrevocable  
+**License:** Greater Good Commercial License 1.0 (GGL-C-1.0); text CC BY-ND 4.0 under Part S. See LICENSE.md.
 
 ---
 
